@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mymediawiki
 Mediawiki deployment - Kubernetes, Kops, Terraform, AWS, Packer
 
@@ -18,3 +19,6 @@ IMP - After cloning this repo to the local machine run this command dos2unix <sc
 ### 5. Then check the running app.
 
 # To be continued ...
+=======
+# test_mediawiki
+>>>>>>> 0320b53145065aa4dc824258d4b7654492980803
